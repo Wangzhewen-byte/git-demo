@@ -6,4 +6,4 @@ git
 afafa
 afafaf
 branch hot-fix
-master test
+hot-fix
